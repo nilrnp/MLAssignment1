@@ -1,3 +1,14 @@
+# -------------------------------------------------------------------------
+# AUTHOR: Nil Patel
+# FILENAME: decision_tree.py
+# SPECIFICATION: This program takes data from a .csv file and develops a tree based on the entropy and gain that is calculated using that data
+# FOR: CS 4210- Assignment #1
+# TIME SPENT: roughly 3 hours
+# -----------------------------------------------------------*/
+# IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH
+# AS numpy OR pandas. You have to work here only with standard
+# dictionaries, lists, and arrays
+
 # importing some Python libraries
 from sklearn import tree
 import matplotlib.pyplot as plt
